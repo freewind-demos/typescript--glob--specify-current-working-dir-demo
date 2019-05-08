@@ -3,7 +3,11 @@
     "demo": "ts-node hello.ts"
   },
   "devDependencies": {
+    "@types/glob": "7.1.1",
     "ts-node": "7.0.1",
     "typescript": "3.2.2"
+  },
+  "dependencies": {
+    "glob": "7.1.3"
   }
 }
